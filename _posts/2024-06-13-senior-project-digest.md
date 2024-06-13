@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title:  "資訊專題報告「LLM應用實戰」精簡介紹"
 date:   2024-06-13 16:00:30 +0800
 categories: 專題
