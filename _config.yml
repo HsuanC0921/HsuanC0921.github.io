@@ -22,7 +22,7 @@ subtitle                 : # site tagline that appears below site title in masth
 name                     : "Hsuan Chen"
 description              : "用於記錄所知所見，目前用於紀錄和留存專題報告內容"
 url                      : "https://hsuanc0921.github.io/"
-baseurl                  : "/blog"
+baseurl                  : # "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
