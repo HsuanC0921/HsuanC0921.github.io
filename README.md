@@ -1,3 +1,3 @@
- HsuanC0921.github.io
-
 My personal blog
+
+Powered by Jekyll & Minimal Mistakes.
