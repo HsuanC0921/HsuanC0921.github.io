@@ -1,4 +1,3 @@
-
 ---
 layout: posts
 title:  "資訊專題報告「LLM應用實戰」精簡介紹"
@@ -339,7 +338,7 @@ BreezeDolphin 並未指出程式碼的錯誤，而是建議如何提高演算法
 
 **專題報告原檔(PDF版本):**
 
-[連結](https://drive.google.com/file/d/1UFZ573_liLvevHafNUwg0yWOuwrkRau_/view?usp=sharing)
+[連結](https://drive.google.com/file/d/1vhuDRHBgnoOWhYgDAMe2yzXLJvVZiPXC/view)
 
 
 如果要觀看詳細的資料來源和更詳細的說明、展示的話都在報告中。
