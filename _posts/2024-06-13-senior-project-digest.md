@@ -338,38 +338,42 @@ BreezeDolphin 並未指出程式碼的錯誤，而是建議如何提高演算法
 ## 6.附錄
 
 
-**專題報告原檔(PDF版本):**
+**U10716034陳暄_LLM應用實戰_專題報告(專題報告原檔，PDF版本):**
 
-[連結](https://drive.google.com/file/d/1vhuDRHBgnoOWhYgDAMe2yzXLJvVZiPXC/view)
+[Google Drive](https://drive.google.com/file/d/1LfyXD16tqhudTaP852Zb5J66rji1tFT1/view)
 
 
 如果要觀看詳細的資料來源和更詳細的說明、展示的話都在報告中。
 
 
-**專題發表影片(充滿口吃和停頓，不是很建議看):**
+**U10716034陳暄_LLM應用實戰_專題解說影片(充滿口吃和停頓，不是很建議看):**
 
-[連結](https://youtu.be/Nq_oD56Yl5o)
+[YouTube](https://youtu.be/Nq_oD56Yl5o)
 
+
+**U10716034陳暄_LLM應用實戰_成果發表簡報(跟上面影片中使用的相同，PDF版本):**
+
+[Google Drive](https://drive.google.com/file/d/1VMrEW2CC778XGC4OPXNRdskcGubLzxMx/view?usp=drive_link)
 
 **BreezeDolphin-SLERP-0.1的線上聊天Live Demo:**
 
-[連結](http//140.238.50.158:8501)
+[140.238.50.158:8501](http//140.238.50.158:8501)
 
 若無法使用請確認網址是否是http協定，而非https協定。
 
 還是無法使用的話再聯絡我，或考慮參考以下網址自行架設。
 
 
-**文中所提及的Chainlit WebUI的Github Repo:**
+**文中所提及的Chainlit WebUI的GitHub Repo:**
 
-[連結](https://github.com/HsuanC0921/Chainlit_ChatLLM)
+[GitHub](https://github.com/HsuanC0921/Chainlit_ChatLLM)
 
 
 **BreezeDolphin-SLERP-0.1的HuggingFace Hub:**
 
-[連結](https://huggingface.co/HsuanLLM/BreezeDolphin-SLERP-0.1)
+[HuggingFace](https://huggingface.co/HsuanLLM/BreezeDolphin-SLERP-0.1)
 
 
 **BreezeDolphin-SLERP-0.1的HuggingFace Hub (.GGUF量化版本):**
 
-[連結](https://huggingface.co/HsuanLLM/BreezeDolphin-SLERP-0.1-GGUF)
+[HuggingFace](https://huggingface.co/HsuanLLM/BreezeDolphin-SLERP-0.1-GGUF)
