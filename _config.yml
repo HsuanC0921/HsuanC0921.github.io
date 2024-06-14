@@ -16,11 +16,11 @@ minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "n
 
 # Site Settings
 locale                   : "zh-TW"
-title                    : "HsuanC0921's Blog"
+title                    : "Hsuan Chen (陳暄)'s Blog"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Hsuan Chen (陳暄)"
-description              : "用於記錄所知所見，目前用於紀錄和留存專題報告內容"
+description              : "該Blog目前僅用於紀錄和留存專題報告內容"
 url                      : "https://hsuanc0921.github.io/"
 baseurl                  : # "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -112,9 +112,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Hsuan Chen"
+  name             : "Hsuan Chen (陳暄)"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "該Blog目前只用於留存專題發表資料"
+  bio              : "該Blog目前僅用於紀錄和留存專題報告內容"
   location         : "Taipei"
   email            :
   links:
