@@ -19,7 +19,7 @@ locale                   : "zh-TW"
 title                    : "HsuanC0921's Blog"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Hsuan Chen"
+name                     : "Hsuan Chen (陳暄)"
 description              : "用於記錄所知所見，目前用於紀錄和留存專題報告內容"
 url                      : "https://hsuanc0921.github.io/"
 baseurl                  : # "/blog"
