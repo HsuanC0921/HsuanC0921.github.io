@@ -1,12 +1,16 @@
 ---
 layout: posts
-title:  "北市大資訊專題「LLM應用實戰」精簡介紹"
+title:  "北市大 資訊專題 「LLM應用實戰」 精簡介紹"
 date:   2024-06-14 18:00:30 +0800
 categories: 專題
 ---
 
-#資訊專題 #資訊科學系 #專題報告
-#北市大 #臺北市立大學 #utaipei #LLM
+#資訊專題 #資訊科學系 #專題報告 
+
+#北市大 #臺北市立大學 #utaipei
+
+#LLM #大型語言模型
+
 
 ![U10716034陳暄_LLM應用實戰_專題海報](https://i.imgur.com/uPziCf5.jpeg)
 
