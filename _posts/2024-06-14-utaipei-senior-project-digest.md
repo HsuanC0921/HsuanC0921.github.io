@@ -1,6 +1,6 @@
 ---
 layout: posts
-title:  "北市大 資訊專題 「LLM應用實戰」 精簡介紹"
+title:  "北市大資訊專題「 LLM 應用實戰」精簡介紹"
 date:   2024-06-14 18:00:30 +0800
 categories: 專題
 ---
