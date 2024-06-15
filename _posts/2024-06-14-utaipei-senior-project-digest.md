@@ -5,6 +5,8 @@ date:   2024-06-14 18:00:30 +0800
 categories: 專題
 ---
 
+#資訊專題 #專題報告 #北市大 #utaipei #LLM
+
 ![U10716034陳暄_LLM應用實戰_專題海報](https://i.imgur.com/uPziCf5.jpeg)
 
 
