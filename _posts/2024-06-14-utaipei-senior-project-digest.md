@@ -12,6 +12,10 @@ categories: 專題
 
 ![U10716034陳暄_LLM應用實戰_專題海報](https://i.imgur.com/uPziCf5.jpeg)
 
+[![U10716034陳暄_LLM應用實戰_成果發表](https://img.youtube.com/vi/Nq_oD56Yl5o/0.jpg)](https://youtu.be/Nq_oD56Yl5o)
+
+(請將「影片標題」改為實際標題)
+
 
 本文章內容，為我所製作的資訊科學系專題報告內容的精簡版本介紹，並非專題的原版全文(原版全文在附錄中可以找到)。 
 
