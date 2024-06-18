@@ -44,7 +44,7 @@ categories: 專題
 
 由於是精簡版報告，因此沒有詳細列出一一對應的資料來源。但文末附有專題全文、解說影片、發表簡報、線上Demo網址、前端UI的GitHub倉庫和發布在HuggingFace上的合併後的模型等附錄資料，供讀者參考。
 
-若對報告內容有任何的疑問都可以透過 [hsuanchen0921@gmail.com](mailto:hsuanchen0921@gmail.com) 這個email地址聯絡我。
+若對報告內容有任何疑問，歡迎通過電子郵件地址 [hsuanchen0921@gmail.com](mailto:hsuanchen0921@gmail.com) 與我聯繫。
 
 
 
